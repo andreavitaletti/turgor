@@ -7,6 +7,4 @@ A simple experiment to record the variation in turgor of plants leaves. The sens
 
 ![](basilico.png)
 
-!!! tip Hypothesis
-
-    I will stress the plant (sorry for that) not watering it in the next days, hopefully the values measured by the sensor will increase, showing a lower turgor pressure. 
+I will stress the plant (sorry for that) not watering it in the next days, hopefully the values measured by the sensor will increase, showing a lower turgor pressure. 
