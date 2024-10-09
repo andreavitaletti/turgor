@@ -8,3 +8,15 @@ A simple experiment to record the variation in turgor of plants leaves. The sens
 ![](img/basilico.png)
 
 I will stress the plant (sorry for that) not watering it in the next days, hopefully the values measured by the sensor will increase, showing a lower turgor pressure. 
+
+**08/10/2024** The poor plant is now suffering water stress. Some leaves are wrinkled.
+
+![](img/basilico_stress.jpg)
+
+As expected the value of the readings increases indicating a lower turgor pressure.
+
+![](img/mqtt_adafruit_2.1.jpg)
+
+Approximately the evening of the 6th of October, there was a disconnection of the sensor.
+
+**09/10/2024** I watered the plant ... hopefully we will measure a decrease in pressure again! 
